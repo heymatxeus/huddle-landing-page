@@ -1,0 +1,24 @@
+@media (max-width: 375px){
+    .main{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .content-text h1{
+        font-size: 2.4rem;
+    }
+
+    .content-text p{
+        padding:2rem;
+    }
+
+    .content-text .btn{
+        margin: 0 auto;
+    }
+
+    .footer .social-media-links .links{
+        margin: 6rem 0;
+        justify-content: center;
+    }    
+}
